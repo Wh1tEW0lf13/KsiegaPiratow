@@ -1,0 +1,5 @@
+Wychodzisz i kierujesz się w stronę łódki. Jedyne co oświetlało statek, to lampy naftowe,
+które były położone na beczkach. Widzisz, że wszyscy wokół dalej spią jak zabici, więc jak zrzucisz to źródło światła,
+to nikt się nie zorientuje. Co robisz?
+1. Zrzucasz lampę i idziesz w stronę łodzi.
+2. Idziesz dalej w stronę łodzi i nie zrzucasz lampy.
